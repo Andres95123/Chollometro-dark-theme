@@ -2,6 +2,8 @@
 
 Este es un estilo CSS personalizado para Chollometro, basado en una versión antigua y mejorado con el tiempo.
 
+![Chollometro Dark CSS](img/chollometro_main.png)
+
 ## Licencia
 
 Por favor, respeta la licencia de este proyecto. Puedes encontrar más detalles en el archivo `LICENSE`.
