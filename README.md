@@ -28,7 +28,11 @@ Para instalar este estilo CSS personalizado en Chollometro, sigue estos pasos:
 4. Copia y pega el contenido del archivo CSS descargado en el nuevo estilo.
 5. Guarda el estilo y asegúrate de que esté habilitado.
 
-También puedes instalar este estilo CSS directamente desde la tienda de estilos de Stylus. Para ello, sigue este enlace: [Chollometro Dark CSS](https://userstyles.world/style/5f7b4b3b7f4b7b001b3f3b3b), pero ten en cuenta que la versión de la tienda puede no estar actualizada.
+(En proceso...) También puedes instalar este estilo CSS directamente desde la tienda de estilos de Stylus. Para ello, sigue este enlace: Chollometro Dark CSS, pero ten en cuenta que la versión de la tienda puede no estar actualizada.
+
+## Fork
+
+Este proyecto es un fork de un css antiguo de chollometro. El papa de este proyecto es [Chollometro Dark CSS](https://github.com/pimentel124/chollometro-dark-theme)
 
 ## Características
 
@@ -42,6 +46,8 @@ Este estilo CSS incluye las siguientes mejoras:
 ## Agradecimientos
 
 Quiero agradecer a todos los que han contribuido a este proyecto, ya sea reportando errores, sugiriendo mejoras o contribuyendo con código. Su apoyo es invaluable y ayuda a que este proyecto siga mejorando.
+
+
 
 ## Contacto
 
